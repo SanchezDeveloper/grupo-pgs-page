@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "sector": "Segurança do Trabalho",
+        "title": "Segurança do Trabalho",
+        "description": "A Segurança do Trabalho visa prevenir acidentes e garantir a saúde no ambiente corporativo. Inclui a elaboração de laudos, vistorias, gestão de processos e integração com plataformas de SST para assegurar conformidade e eficiência.",
+        "advantages": ["Elaboração de Laudos Ambientais", "Vistorias Técnicas","eSocial", "Perícias Técnicas", "Gestão de SST- Saúde e Segurança do trabalho - implantação de Processos", "Uso de Plataforma de gestão de SST" ],
+        "image": "../images/service-st.png"
+    },
+    {
+        "id": 2,
+        "sector": "Médico",
+        "title": "Medicina do Trabalho",
+        "description": "A Medicina do Trabalho promove a saúde e a segurança no ambiente corporativo, garantindo conformidade com normas e a qualidade de vida dos trabalhadores.",
+        "advantages": ["Laudos Ambientais", "Exames Clínicos (ASO)","Exames Complementares", "Chamadas de Periódicos in loco", "Campanha de Vacinação" ],
+        "image": "../images/service-medico.png"
+    },
+    {
+        "id": 3,
+        "sector": "Treinamentos",
+        "title": "Treinamentos",
+        "description": "Treinamentos especializados em segurança e saúde ocupacional, baseados nas principais Normas Regulamentadoras, promovendo um ambiente de trabalho mais seguro e eficiente.",
+        "advantages": ["Normas Regulamentadoras: NR-01, NR-05, NR-07, NR-10, NR-11, NR-12, NR-13, NR-17, NR-20, NR-23, NR-33, NR-35", "Palestras de Segurança do Trabalho","Palestras de Saúde Ocupacional", "Palestras de Psicologia e Saúde Mental" ],
+        "image": "../images/service-treinamento.png"
+    },
+    {
+        "id": 4,
+        "sector": "Engenharia",
+        "title": "Engenharia",
+        "description": "Realizamos projetos completos e manutenção com foco em segurança, funcionalidade e acessibilidade, atendendo às normas técnicas e demandas específicas de cada cliente.",
+        "advantages": ["Avaliação de Imóveis Urbanos e Rurais", "Elaboração de Projetos Arquitetônicos, Estruturais, Hidrossanitários, Elétricos e para Combate a Incêncio","Memorial Descritivo", "Manutenção e Instalação  (Reformas, Manutenções e Instalação de Piso Tátil) " ],
+        "image": "../images/service-engenharia.png"
+    },
+    {
+        "id": 5,
+        "sector": "Ambiental",
+        "title": "Meio Ambiente",
+        "description": "Promovendo soluções ambientais completas para garantir sustentabilidade, eficiência e conformidade com as normas em cada projeto desenvolvido.",
+        "advantages": ["Plano de Controle Ambiental - PCA", "Plano de Gerenciamento de Residuos de Serviço de Saúde (PGRSCC)","Plano de Gerenciamento de Resíduos de Servícos de Saúde (PGRSS)", "Projeto Básico Ambiental (PBA)", "Plano de Recuperação de Áreas Degradadas (PRAD)", "Licenciamento Ambiental em geral" ],
+        "image": "../images/service-ambiente.png"
+    },
+    {
+        "id": 6,
+        "sector": "Jurídico",
+        "title": "Assessoria Jurídica",
+        "description": "Serviço voltado à acessoria jurídica, garantindo suporte técnico e jurídico em questões trabalhistas e previdenciárias, promovendo segurança e orientação especializada.",
+        "advantages": ["Advocacia Preventiva", "Contencioso Trabalhista e Previdenciário (Assessoria em Defesas Trabalhistas, Acidente de Trabalho, Doenças Ocupacionais, Rescisão Indireta, Demissão por justa causa", "Consultoria", "Parecer Técnico" ],
+        "image": "../images/service-juridico.png"
+    }
+]
